@@ -1,2 +1,2 @@
-# Structures Team
-## Team Lead: James Hallstrom
+# Electrical Systems Team
+## Team Lead: Jayson Gonzalez Lopez
